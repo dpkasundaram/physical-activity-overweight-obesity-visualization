@@ -1,0 +1,45 @@
+.shiny-input-container:not(.shiny-input-container-inline) {
+    width: auto;
+    max-width: 100%;
+}
+
+.plot-row {
+  margin-top: 50px;
+}
+
+.reset-btn {
+  margin: 30px;
+}
+
+.slider-btn {
+  margin-top: 10px;
+}
+
+.plot-chart {
+  width: 430px;
+  height: 500px;
+}
+
+.tab-3-slider {
+  width:420px;
+  margin:20px;
+}
+
+.input-dropdown {
+  z-index: 1000;
+  margin: 20px;
+  width: 230px;
+}
+
+.plotly-map {
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.shiny-split-layout > div {
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    overflow: inherit;
+}
+.dropdown-menu{bottom: 100%;}
